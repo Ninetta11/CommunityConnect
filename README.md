@@ -51,3 +51,21 @@ Requires NPM, otherwise working on Heroku
 
 ## Link to the App
 Please visit the <a href="https://communityconnect-1.herokuapp.com/">site</a> hosted on Heroku<hr>
+
+## Contributors
+
+* **NINA WELSH** - 
+Contact information:
+ninawelsh1@outlook.com
+
+* **TIM SILBY** - 
+Contact information:
+tim.silby@gmail.com
+
+* **COLIN SMITH** - 
+Contact information:
+colinjcsmith@gmail.com
+
+* **RORY TANNER** - 
+Contact information:
+roryscoding@gmail.com
