@@ -48,3 +48,6 @@ db.sequelize.sync().then(() => {
 ```
 ## Installation
 Requires NPM, otherwise working on Heroku
+
+## Link to the App
+Please visit the <a href="https://communityconnect-1.herokuapp.com/">site</a> hosted on Heroku<hr>
